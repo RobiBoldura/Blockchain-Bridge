@@ -1,0 +1,26 @@
+{
+  "name": "proiect",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@mysten/dapp-kit": "^0.14.47",
+    "@mysten/sui.js": "^0.54.1",
+    "@types/node": "^22.10.7",
+    "@web3modal/wagmi": "^5.1.11",
+    "dotenv": "^16.4.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3",
+    "viem": "^2.22.12",
+    "wagmi": "^2.14.9"
+  }
+}
